@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    
+}
+
+.counter{
+    width: 300px;
+    margin: auto;
+    background-color: lightgray;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+#count{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: lightblue;
+    color: rgb(20, 20, 20);
+    font-size: 32px;
+    border-radius: 15px;
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: darkblue;
+}
